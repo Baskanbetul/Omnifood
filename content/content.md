@@ -1,4 +1,4 @@
-# Omnifood; stay healty
+# Omnifood; stay healty , don t give up
 
 ## About Omnifood
 
